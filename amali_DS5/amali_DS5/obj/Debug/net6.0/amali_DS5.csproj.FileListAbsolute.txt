@@ -1,0 +1,15 @@
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\bin\Debug\net6.0\amali_DS5.exe
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\bin\Debug\net6.0\amali_DS5.deps.json
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\bin\Debug\net6.0\amali_DS5.runtimeconfig.json
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\bin\Debug\net6.0\amali_DS5.dll
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\bin\Debug\net6.0\amali_DS5.pdb
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.csproj.AssemblyReference.cache
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.AssemblyInfoInputs.cache
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.AssemblyInfo.cs
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.csproj.CoreCompileInputs.cache
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.dll
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\refint\amali_DS5.dll
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.pdb
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\amali_DS5.genruntimeconfig.cache
+C:\Users\win_10\source\repos\amali_DS5\amali_DS5\obj\Debug\net6.0\ref\amali_DS5.dll

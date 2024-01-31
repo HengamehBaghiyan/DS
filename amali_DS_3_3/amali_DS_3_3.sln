@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amali_DS_3_3", "amali_DS_3_3\amali_DS_3_3.csproj", "{9B1F22F6-82D9-40BB-9B86-29CF3708C005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1F22F6-82D9-40BB-9B86-29CF3708C005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1F22F6-82D9-40BB-9B86-29CF3708C005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1F22F6-82D9-40BB-9B86-29CF3708C005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1F22F6-82D9-40BB-9B86-29CF3708C005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688E1781-3EAA-4EB8-B739-2473CA0FD66C}
+	EndGlobalSection
+EndGlobal

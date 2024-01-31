@@ -1,0 +1,15 @@
+C:\Users\win_10\source\repos\amali_ds\amali_ds\bin\Debug\net6.0\amali_ds.exe
+C:\Users\win_10\source\repos\amali_ds\amali_ds\bin\Debug\net6.0\amali_ds.deps.json
+C:\Users\win_10\source\repos\amali_ds\amali_ds\bin\Debug\net6.0\amali_ds.runtimeconfig.json
+C:\Users\win_10\source\repos\amali_ds\amali_ds\bin\Debug\net6.0\amali_ds.dll
+C:\Users\win_10\source\repos\amali_ds\amali_ds\bin\Debug\net6.0\amali_ds.pdb
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.csproj.AssemblyReference.cache
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.AssemblyInfoInputs.cache
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.AssemblyInfo.cs
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.csproj.CoreCompileInputs.cache
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.dll
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\refint\amali_ds.dll
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.pdb
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\amali_ds.genruntimeconfig.cache
+C:\Users\win_10\source\repos\amali_ds\amali_ds\obj\Debug\net6.0\ref\amali_ds.dll
