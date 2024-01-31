@@ -1,0 +1,15 @@
+C:\Users\win_10\source\repos\DS6_1\DS6_1\bin\Debug\net6.0\DS6_1.exe
+C:\Users\win_10\source\repos\DS6_1\DS6_1\bin\Debug\net6.0\DS6_1.deps.json
+C:\Users\win_10\source\repos\DS6_1\DS6_1\bin\Debug\net6.0\DS6_1.runtimeconfig.json
+C:\Users\win_10\source\repos\DS6_1\DS6_1\bin\Debug\net6.0\DS6_1.dll
+C:\Users\win_10\source\repos\DS6_1\DS6_1\bin\Debug\net6.0\DS6_1.pdb
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.csproj.AssemblyReference.cache
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.AssemblyInfoInputs.cache
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.AssemblyInfo.cs
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.csproj.CoreCompileInputs.cache
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.dll
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\refint\DS6_1.dll
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.pdb
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\DS6_1.genruntimeconfig.cache
+C:\Users\win_10\source\repos\DS6_1\DS6_1\obj\Debug\net6.0\ref\DS6_1.dll
